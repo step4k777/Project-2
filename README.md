@@ -1,17 +1,17 @@
 # Анализ вакансий из HeadHunter (Блок 2. Подгрузка данных)
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Результат)  
-[6. Выводы](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Выводы)     
+[1. Описание проекта](https://github.com/step4k777/Project-2/blob/master/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/step4k777/Project-2/blob/master/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/step4k777/Project-2/blob/master/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/step4k777/Project-2/blob/master/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/step4k777/Project-2/blob/master/README.md#Результат)  
+[6. Выводы](https://github.com/step4k777/Project-2/blob/master/README.md#Выводы)     
 
 ### Описание проекта    
 Мы устроились на работу в кадровое агентство, которое подбирает вакансии для IT-специалистов. Наш первый проект — создание модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist. Сначала нам необходимо понять, что из себя представляют данные и насколько они соответствуют целям проекта. В литературе эта часть работы над ML-проектом называется Data Understanding, или анализ данных.
 
-:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/step4k777/Project-2/blob/master/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -63,7 +63,7 @@
 * INDUSTRIES Таблица-справочник вариантов сфер деятельности работодателей.
 * EMPLOYERS_INDUSTRIES Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности.
 
-:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/step4k777/Project-2/blob/master/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -73,7 +73,7 @@
 4. Выводы
 
 
-:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/step4k777/Project-2/blob/master/README.md#Оглавление)
 
 
 ### Результат:  
@@ -82,10 +82,10 @@
    3. Подготовлена визуализация анализируемых данных; 
    4. Сделаны выводы и предложения.
 
-:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/step4k777/Project-2/blob/master/README.md#Оглавление)
 
 
 ### Выводы:  
 Оказывается все возможно сделать, если захочешь.
 
-:arrow_up:[к оглавлению](https://github.com/Jopel003/My_homework/blob/main/3.%20PROJECT-2_(SQL)/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/step4k777/Project-2/blob/master/README.md#Оглавление)
